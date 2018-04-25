@@ -5,6 +5,7 @@ Download the jar file from https://drive.google.com/file/d/1Maaz8S8REJHDQj3yf3IZ
 
 java -jar target/AquentCodingChallenge-0.0.1-SNAPSHOT.jar “INPUT FILE PATH/LOCATION” “OUT FILE PATH/LOCATION” 
 
+If you want to run the code from the source file. Download the code, run mvn package in the source folder and then run command.
 This will run the program and output will be written in the OUT FILE 
 
 # All assumptions
