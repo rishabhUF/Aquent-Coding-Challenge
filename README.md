@@ -1,6 +1,7 @@
 # Aquent-Coding-Challenge
 
 # How to run the program:
+Download the jar file from https://drive.google.com/file/d/1Maaz8S8REJHDQj3yf3IZGECjUpGj5t_d/view?usp=sharing and then run the java application.
 
 java -jar target/AquentCodingChallenge-0.0.1-SNAPSHOT.jar “INPUT FILE PATH/LOCATION” “OUT FILE PATH/LOCATION” 
 
