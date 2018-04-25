@@ -18,6 +18,7 @@ This will run the program and output will be written in the OUT FILE
 
 5) Input File and Output should exists in the machine for reading and writing the file. The program will not generate new file by itself.
 
+6) First line of the input file should be Order   Time, other it will not read the first line of the input file.
 # Design Patters Followed:
 1) Dependency Injection
 2) Factory Based Injection
